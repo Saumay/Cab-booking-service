@@ -9,7 +9,6 @@ import java.util.List;
 @Getter
 public class Rider {
     private int id;
-
     private String name;
     private Location location;
     private List<Integer> rideIds;
